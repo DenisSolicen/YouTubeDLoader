@@ -1,5 +1,10 @@
+<div align="left">
+
+<img src="https://github.com/DenisSolicen/YouTubeDLoader/blob/main/img/SolicenYouTubeDownloader.png?raw=true" width="128">
+
 # YouTube DLoader
-Быстрое скачивание видео или аудио с YouTube без ограничений!
+Быстрое скачивание видео или аудио с [YouTube](https://www.youtube.com/) без ограничений, подписок, и дополнительных вложений!
+</div>
 
 ## Использование
 * Загрузить программу по [ссылке](https://github.com/DenisSolicen/YouTubeDLoader/releases).
@@ -12,7 +17,7 @@
 * Для работы с YouTube: [libvideo](https://github.com/omansak/libvideo?ysclid=l8pqrzqegz956373042)
 
 Поддерживаемые качества видео (30 - 60 FPS):
-* 144p, 240p, 360p, 480, 720p, 1080p, 1440, 2160
+* 144p, 240p, 360p, 480, 720p, 1080p, 1440p, 2160p
 
 Варианты звука:
 * .mp3, .aac
