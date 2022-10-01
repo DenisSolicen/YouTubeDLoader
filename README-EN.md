@@ -16,10 +16,10 @@ Fast download of video or audio from [YouTube](https://www.youtube.com/) without
 * For fast speed: [Downloader](https://github.com/bezzad/Downloader?ysclid=l8pqokljlv931968586)
 * To work with YouTube: [libvideo](https://github.com/omansak/libvideo?ysclid=l8pqrzqegz956373042)
 
-Поддерживаемые качества видео (30 - 60 FPS):
+Supported video quality (30 - 60 FPS):
 * 144p, 240p, 360p, 480, 720p, 1080p, 1440p, 2160p
 
-Варианты звука:
+Sound variant:
 * .mp3, .aac
 
 ## Support
