@@ -8,13 +8,15 @@
 
 ## Использование
 * Загрузить программу по [ссылке](https://github.com/DenisSolicen/YouTubeDLoader/releases).
-* Распаковать в любое место.
+* Распаковать в любое место без пробелов и кириллицы в пути.
+  * в противном случае, загрузки будут кешироваться в папке `C:\.temp` по умолчанию.
 * Запустить!
 
 ## Техническая сторона
 
-* Для быстрой скорости: [Downloader](https://github.com/bezzad/Downloader?ysclid=l8pqokljlv931968586)
+* Для быстрой скорости: [Downloader](https://github.com/bezzad/Downloader?ysclid=l8pqokljlv931968586) 
 * Для работы с YouTube: [libvideo](https://github.com/omansak/libvideo?ysclid=l8pqrzqegz956373042)
+* Для слияния аудио и видео: [ffmpeg](https://ffmpeg.org/)
 
 Поддерживаемые качества видео (30 - 60 FPS):
 * 144p, 240p, 360p, 480, 720p, 1080p, 1440p, 2160p
