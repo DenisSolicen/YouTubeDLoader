@@ -17,9 +17,7 @@
 * Запустить!
 
 ## Техническая сторона
-
-* Для быстрой скорости: [Downloader](https://github.com/bezzad/Downloader?ysclid=l8pqokljlv931968586) 
-* Для работы с YouTube: [libvideo](https://github.com/omansak/libvideo?ysclid=l8pqrzqegz956373042)
+* Для работы с YouTube: собственная версия [libvideo](https://github.com/omansak/libvideo?ysclid=l8pqrzqegz956373042)
 * Для слияния аудио и видео: [ffmpeg](https://ffmpeg.org/)
 
 Поддерживаемые качества видео (30 - 60 FPS):
